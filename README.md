@@ -1,5 +1,5 @@
 # Software-Development-Porject
-A website created using PHP, Javascript, CSS, HTML, and MariaDb
+A website created using PHP, CSS, HTML, and MariaDb
 
 Functions:
 - Able to create user, delete user, and reset password.
